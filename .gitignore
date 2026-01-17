@@ -1,0 +1,52 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de debug (mantener solo releases)
+*.apk
+!misionapp/releases/**/*.apk
+*.aab
+!misionapp/releases/**/*.aab
+*.ipa
+!misionapp/releases/**/*.ipa
+
+# Keystores y credenciales (NUNCA subir)
+*.jks
+*.keystore
+*.p12
+key.properties
+google-services.json
+GoogleService-Info.plist
+
+# Archivos de configuración sensibles
+*.env
+*.env.local
+secrets.json
+
+# Build artifacts (excepto releases)
+build/
+dist/
+*.class
+*.dex
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+flutter_*.png
+.links/
+*.iml
