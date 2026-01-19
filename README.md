@@ -8,37 +8,114 @@ Repositorio centralizado para releases de aplicaciones y políticas de privacida
 
 ```
 /
+├── imcapp/
+│   ├── releases/
+│   │   ├── android/ (APK/AAB files)
+│   │   └── ios/ (IPA files)
+│   └── policies/ (Políticas de privacidad)
 ├── misionapp/
 │   ├── releases/
-│   │   ├── android/
-│   │   │   ├── README.md
-│   │   │   └── (APK/AAB files aquí)
-│   │   └── ios/
-│   │       ├── README.md
-│   │       └── (IPA files aquí)
-│   └── policies/
-│       ├── privacy-policy.md
-│       └── README.md
-├── README.md (este archivo)
-└── .gitignore
+│   │   ├── android/ (APK/AAB files)
+│   │   └── ios/ (IPA files)
+│   └── policies/ (Políticas de privacidad)
+├── fast/
+│   ├── releases/
+│   │   ├── android/ (APK/AAB files)
+│   │   └── ios/ (IPA files)
+│   └── policies/ (Políticas de privacidad)
+├── horasmedicas/
+│   ├── releases/
+│   │   ├── android/ (APK/AAB files)
+│   │   └── ios/ (IPA files)
+│   └── policies/ (Políticas de privacidad)
+├── categoriaaldia/
+│   ├── releases/ (Información sobre releases)
+│   └── policies/ (Políticas de privacidad)
+└── README.md (este archivo)
 ```
 
 ---
 
 ## 🚀 Proyectos Disponibles
 
+### 📱 IMC App
+**Descripción:** Calculadora de IMC - Aplicación Flutter para calcular y gestionar tu Índice de Masa Corporal
+
+**Package:** `com.example.imcapp`
+
+**Repositorio:** https://github.com/operonte/imcapp
+
+**Releases:**
+- **Android:** [Ver releases](./imcapp/releases/android/)
+- **iOS:** [Ver releases](./imcapp/releases/ios/)
+
+**Políticas:**
+- **Política de Privacidad:** [Ver política](./imcapp/policies/)
+- **URL pública (GitHub Pages):** `https://operonte.github.io/releases/imcapp/policies/privacy_policy.html`
+
+---
+
 ### 📱 Misión App
-**Descripción:** Aplicación para seguimiento de miembros de iglesias
+**Descripción:** Aplicación Flutter para gestión de visitas y seguimiento de personas en trabajos misioneros
 
 **Package:** `com.example.misionapp`
 
+**Repositorio:** https://github.com/operonte/misionapp
+
 **Releases:**
 - **Android:** [Ver releases](./misionapp/releases/android/)
-- **iOS:** [Ver releases](./misionapp/releases/ios/) (próximamente)
+- **iOS:** [Ver releases](./misionapp/releases/ios/)
 
 **Políticas:**
 - **Política de Privacidad:** [Ver política](./misionapp/policies/privacy-policy.md)
-- **URL pública (GitHub Pages):** `https://TU-USUARIO.github.io/releases/misionapp/policies/privacy-policy.html`
+- **URL pública (GitHub Pages):** `https://operonte.github.io/releases/misionapp/policies/privacy-policy.html`
+
+---
+
+### 📱 Fast
+**Descripción:** Aplicación Flutter para enviar mensajes a WhatsApp de forma rápida con historial y mensajes predefinidos
+
+**Package:** `com.example.fast`
+
+**Repositorio:** https://github.com/operonte/fast
+
+**Releases:**
+- **Android:** [Ver releases](./fast/releases/android/)
+- **iOS:** [Ver releases](./fast/releases/ios/)
+
+**Políticas:**
+- **Política de Privacidad:** [Ver política](./fast/policies/)
+- **URL pública (GitHub Pages):** `https://operonte.github.io/releases/fast/policies/privacy_policy.html`
+
+---
+
+### 📱 Horas Médicas
+**Descripción:** App con acceso directo a clínicas médicas en Rancagua para reservar horas
+
+**Package:** `com.example.horasmedicas`
+
+**Repositorio:** https://github.com/operonte/horasmedicas
+
+**Releases:**
+- **Android:** [Ver releases](./horasmedicas/releases/android/)
+- **iOS:** [Ver releases](./horasmedicas/releases/ios/)
+
+**Políticas:**
+- **Política de Privacidad:** [Ver política](./horasmedicas/policies/)
+- **URL pública (GitHub Pages):** `https://operonte.github.io/releases/horasmedicas/policies/privacy_policy.html`
+
+---
+
+### 📊 Categoria al Día
+**Descripción:** Macro Excel para gestión de inventario Walmart Smart (no es aplicación móvil)
+
+**Repositorio:** https://github.com/operonte/categoriaaldia
+
+**Releases:**
+- **Información:** [Ver información](./categoriaaldia/releases/)
+
+**Políticas:**
+- **Política de Privacidad:** [Ver política](./categoriaaldia/policies/)
 
 ---
 
@@ -103,13 +180,19 @@ Repositorio centralizado para releases de aplicaciones y políticas de privacida
 
 2. **URL resultante:**
    ```
-   https://TU-USUARIO.github.io/releases/misionapp/policies/privacy-policy.html
+   https://operonte.github.io/releases/{proyecto}/policies/privacy_policy.html
    ```
+
+   Ejemplos:
+   - IMC App: `https://operonte.github.io/releases/imcapp/policies/privacy_policy.html`
+   - Misión App: `https://operonte.github.io/releases/misionapp/policies/privacy-policy.html`
+   - Fast: `https://operonte.github.io/releases/fast/policies/privacy_policy.html`
+   - Horas Médicas: `https://operonte.github.io/releases/horasmedicas/policies/privacy_policy.html`
 
 ### GitHub Raw (Alternativa):
 
 ```
-https://raw.githubusercontent.com/TU-USUARIO/releases/main/misionapp/policies/privacy-policy.md
+https://raw.githubusercontent.com/operonte/releases/main/{proyecto}/policies/privacy-policy.md
 ```
 
 ⚠️ **Nota:** GitHub Raw muestra Markdown como texto plano. Para mejor presentación, usa GitHub Pages.
