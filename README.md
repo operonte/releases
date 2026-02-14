@@ -18,6 +18,15 @@ GitHub Pages: https://operonte.github.io/releases/
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/horasmedicas/releases/latest) |
 | **Repositorio** | [operonte/horasmedicas](https://github.com/operonte/horasmedicas) |
 
+### fasT (v1.0.0)
+
+| Recurso | Enlace |
+|---------|--------|
+| **Política de Privacidad** | [PRIVACY.md](https://github.com/operonte/releases/blob/main/fast/PRIVACY.md) |
+| **Términos de uso** | [TERMS.md](https://github.com/operonte/releases/blob/main/fast/TERMS.md) |
+| **Descargar APK** | [Releases en GitHub](https://github.com/operonte/fast/releases/latest) |
+| **Repositorio** | [operonte/fast](https://github.com/operonte/fast) |
+
 ---
 
 ## Estructura del repositorio
@@ -27,9 +36,10 @@ releases/
 ├── horasmedicas/
 │   └── policies/
 │       └── privacy_policy.html
-├── [otras-apps]/
-│   └── policies/
-│       └── privacy_policy.html
+├── fast/
+│   ├── PRIVACY.md
+│   ├── TERMS.md
+│   └── README.md
 └── README.md
 ```
 
