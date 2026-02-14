@@ -1,6 +1,6 @@
 # fasT - Enlaces
 
-**Última versión:** 1.0.0
+**Última versión:** 1.0.1
 
 ## Política de Privacidad
 
@@ -12,6 +12,6 @@
 
 ## Descargar APK
 
-**[Descargar última versión para Android (v1.0.0)](https://github.com/operonte/fast/releases/latest)**
+**[Descargar última versión para Android (v1.0.1)](https://github.com/operonte/fast/releases/latest)**
 
-También disponible en el repositorio: `fast/release/fast-v1.0.0.apk`
+También disponible en el repositorio: `fast/release/fast-v1.0.1.apk`

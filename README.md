@@ -18,7 +18,7 @@ GitHub Pages: https://operonte.github.io/releases/
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/horasmedicas/releases/latest) |
 | **Repositorio** | [operonte/horasmedicas](https://github.com/operonte/horasmedicas) |
 
-### fasT (v1.0.0)
+### fasT (v1.0.1)
 
 | Recurso | Enlace |
 |---------|--------|
