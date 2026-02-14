@@ -10,7 +10,7 @@ GitHub Pages: https://operonte.github.io/releases/
 
 ## Aplicaciones
 
-### Horas Médicas
+### Horas Médicas (v1.1.0)
 
 | Recurso | Enlace |
 |---------|--------|
