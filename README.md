@@ -22,8 +22,8 @@ GitHub Pages: https://operonte.github.io/releases/
 
 | Recurso | Enlace |
 |---------|--------|
-| **Política de Privacidad** | [PRIVACY.md](https://github.com/operonte/releases/blob/main/fast/PRIVACY.md) |
-| **Términos de uso** | [TERMS.md](https://github.com/operonte/releases/blob/main/fast/TERMS.md) |
+| **Política de Privacidad** | [Ver política](https://operonte.github.io/releases/fast/policies/privacy_policy.html) |
+| **Términos de uso** | [Ver términos](https://operonte.github.io/releases/fast/policies/terms_of_use.html) |
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/fast/releases/latest) |
 | **Repositorio** | [operonte/fast](https://github.com/operonte/fast) |
 
@@ -37,6 +37,9 @@ releases/
 │   └── policies/
 │       └── privacy_policy.html
 ├── fast/
+│   ├── policies/
+│   │   ├── privacy_policy.html
+│   │   └── terms_of_use.html
 │   ├── PRIVACY.md
 │   ├── TERMS.md
 │   └── README.md

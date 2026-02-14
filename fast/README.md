@@ -4,11 +4,11 @@
 
 ## Política de Privacidad
 
-[Ver política de privacidad](https://github.com/operonte/releases/blob/main/fast/PRIVACY.md)
+[Ver política de privacidad](https://operonte.github.io/releases/fast/policies/privacy_policy.html)
 
 ## Términos de uso
 
-[Ver términos de uso](https://github.com/operonte/releases/blob/main/fast/TERMS.md)
+[Ver términos de uso](https://operonte.github.io/releases/fast/policies/terms_of_use.html)
 
 ## Descargar APK
 
