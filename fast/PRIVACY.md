@@ -17,3 +17,7 @@ La aplicación solicita únicamente los permisos necesarios para abrir enlaces e
 ## 4. Cambios
 
 Cualquier cambio en esta política se reflejará en este documento en el repositorio releases.
+
+## 5. Contacto
+
+Para dudas sobre privacidad o datos: cristian.bravo.droguett@gmail.com

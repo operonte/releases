@@ -17,3 +17,7 @@ La aplicación se ofrece "tal cual". El desarrollador no se hace responsable de 
 ## 4. Cambios
 
 Estos términos pueden actualizarse. Los cambios se publicarán en este documento en el repositorio releases.
+
+## 5. Contacto
+
+Para consultas sobre estos términos: cristian.bravo.droguett@gmail.com
