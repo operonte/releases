@@ -27,6 +27,15 @@ GitHub Pages: https://operonte.github.io/releases/
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/fast/releases/latest) |
 | **Repositorio** | [operonte/fast](https://github.com/operonte/fast) |
 
+### MisionApp (v1.0.0)
+
+| Recurso | Enlace |
+|---------|--------|
+| **Política de Privacidad** | [Ver política](https://operonte.github.io/releases/misionapp/policies/privacy_policy.html) |
+| **Términos de uso** | [Ver términos](https://operonte.github.io/releases/misionapp/policies/terms_of_use.html) |
+| **Descargar APK** | [Releases en GitHub](https://github.com/operonte/misionapp/releases/latest) |
+| **Repositorio** | [operonte/misionapp](https://github.com/operonte/misionapp) |
+
 ---
 
 ## Estructura del repositorio
@@ -42,6 +51,11 @@ releases/
 │   │   └── terms_of_use.html
 │   ├── PRIVACY.md
 │   ├── TERMS.md
+│   └── README.md
+├── misionapp/
+│   ├── policies/
+│   │   ├── privacy_policy.html
+│   │   └── terms_of_use.html
 │   └── README.md
 └── README.md
 ```
