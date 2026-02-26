@@ -36,6 +36,14 @@ GitHub Pages: https://operonte.github.io/releases/
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/misionapp/releases/latest) |
 | **Repositorio** | [operonte/misionapp](https://github.com/operonte/misionapp) |
 
+### CoroApp (v0.1.0)
+
+| Recurso | Enlace |
+|---------|--------|
+| **Política de Privacidad** | [Ver política](https://operonte.github.io/releases/coroapp/policies/privacy_policy.html) |
+| **Descargar APK** | [Releases en GitHub](https://github.com/operonte/coroapp/releases/latest) |
+| **Repositorio** | [operonte/coroapp](https://github.com/operonte/coroapp) |
+
 ---
 
 ## Estructura del repositorio
