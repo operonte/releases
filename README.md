@@ -36,13 +36,23 @@ GitHub Pages: https://operonte.github.io/releases/
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/misionapp/releases/latest) |
 | **Repositorio** | [operonte/misionapp](https://github.com/operonte/misionapp) |
 
-### CoroApp (v0.1.0)
+### CoroApp (v0.1.17)
 
 | Recurso | Enlace |
 |---------|--------|
 | **Política de Privacidad** | [Ver política](https://operonte.github.io/releases/coroapp/policies/privacy_policy.html) |
 | **Descargar APK** | [Releases en GitHub](https://github.com/operonte/coroapp/releases/latest) |
 | **Repositorio** | [operonte/coroapp](https://github.com/operonte/coroapp) |
+
+### Herramientas de IA para BlackArch
+
+| Recurso | Enlace |
+|---------|--------|
+| **README Principal** | [Ver guía completa](https://operonte.github.io/releases/ia/) |
+| **Windsurf** | [Guía de instalación](https://operonte.github.io/releases/ia/windsurf_blackarch.md) |
+| **Cursor IDE** | [Guía de configuración](https://operonte.github.io/releases/ia/cursor_ide.md) |
+| **Grok AI** | [Setup completo](https://operonte.github.io/releases/ia/grok_ai_setup.md) |
+| **Repositorio** | [operonte/releases](https://github.com/operonte/releases) |
 
 ---
 
@@ -65,6 +75,11 @@ releases/
 │   │   ├── privacy_policy.html
 │   │   └── terms_of_use.html
 │   └── README.md
+├── ia/
+│   ├── README.md
+│   ├── windsurf_blackarch.md
+│   ├── cursor_ide.md
+│   └── grok_ai_setup.md
 └── README.md
 ```
 
@@ -78,9 +93,16 @@ https://operonte.github.io/releases/[nombre-app]/policies/privacy_policy.html
 
 ## Añadir una nueva app
 
+### Para aplicaciones móviles:
 1. Crear carpeta `[nombre-app]/policies/`
 2. Añadir `privacy_policy.html`
 3. Actualizar este README con los enlaces
+4. Hacer commit y push
+
+### Para herramientas de IA:
+1. Crear carpeta `ia/` (si no existe)
+2. Añadir archivos `.md` con guías completas
+3. Actualizar este README con la tabla de recursos
 4. Hacer commit y push
 
 ---
